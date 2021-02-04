@@ -1,3 +1,5 @@
+forked from xiaojun996/jd_sign_bot
+
 fork自：[ruicky/jd_sign_bot](https://github.com/ruicky/jd_sign_bot)
 
 <p align="center">
@@ -18,4 +20,5 @@ fork自：[ruicky/jd_sign_bot](https://github.com/ruicky/jd_sign_bot)
 3. 签到并发送通知
 
 详情参考文章:[京东定时签到-GitHub 实现](https://ruicky.me/2020/06/05/jd-sign/)
+
 
